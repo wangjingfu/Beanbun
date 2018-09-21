@@ -1,7 +1,7 @@
 # Beanbun
 Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性。
 
-* [参考文档](http://www.beanbun.org/#/)
+* [官方文档](http://www.beanbun.org/#/)
 
 # 安装
 
